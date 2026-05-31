@@ -70,8 +70,6 @@ Full project report (SolidWorks renders, exploded view, BOM, pneumatic circuit, 
 
 - [ ] Hardware "as-built" photo (page 16 of the report was left blank — the machine was built but no photo was inserted)
 - [ ] Embedded video in README (see Demo note above)
-- [ ] SolidWorks source files (`.SLDPRT` / `.SLDASM`) — not uploaded
-- [ ] FluidSIM source file (`.fld`) — not uploaded
 
 ---
 
