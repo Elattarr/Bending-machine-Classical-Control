@@ -64,12 +64,7 @@ Full project report (SolidWorks renders, exploded view, BOM, pneumatic circuit, 
 
 ## Demo
 
-`Bending machine vod.mp4` is in the repository root. To embed it in this README, upload it via a GitHub issue (drag-and-drop) and paste the resulting `user-attachments` URL here.
-
-## What's still missing
-
-- [ ] Hardware "as-built" photo (page 16 of the report was left blank — the machine was built but no photo was inserted)
-- [ ] Embedded video in README (see Demo note above)
+![Full bend cycle demo](Bending%20machine%20vod.mp4)
 
 ---
 
